@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        {
+            "title": "My first blog",
+            "body": "why am I excited? \nIt is going to be a big lesson \nfor learning everyhting i should know about react",
+            "author": "Nani",
+            "id": 1
+        },
+           {
+            "title": "Opening party",
+            "body": "why am I excited? \nIt is going to be a big lesson \nfor learning everyhting i should know about react",
+            "author": "Kal",
+            "id": 2
+           }
+    ]
+}
